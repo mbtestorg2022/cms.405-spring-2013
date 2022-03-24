@@ -180,7 +180,7 @@ Assignment 2 work session
 A Science of Design?
 {{< tdclose >}}
 {{< tdopen >}}
-Ramachandran, V. S., and William Hirstein. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Science of Art." (PDF)](http://www.dgp.toronto.edu/~hertzman/courses/csc2521/fall_2007/ramachandran-science-art.pdf) _Journal of Consciousness Studies_ 6, no. 6–7 (1999): 15–51.
+Ramachandran, V. S., and William Hirstein. ["The Science of Art." (PDF)](http://www.dgp.toronto.edu/~hertzman/courses/csc2521/fall_2007/ramachandran-science-art.pdf) _Journal of Consciousness Studies_ 6, no. 6–7 (1999): 15–51.
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 2 due
